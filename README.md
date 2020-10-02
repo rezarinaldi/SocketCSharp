@@ -1,6 +1,6 @@
 ## 💻 Socket Client Server - C#
 
-<img src="doc/gif/Demo Socket CSharp.gif" width="30%">
+<img src="doc/gif/Demo Socket CSharp.gif" width="60%">
 
 ### Tools
 
